@@ -1,0 +1,34 @@
+_repo: Bunny-Brown-and-His-Sister-Sue-on-Grandpa-s-Farm_19555
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nosworthy, Florence England
+    birthdate: 1872
+    deathdate: 1936
+    gutenberg_agent_id: '7057'
+    url: http://www.gutenberg.org/2009/agents/7057
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Brown, Bunny (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+title: Bunny Brown and His Sister Sue on Grandpa's Farm
+url: http://www.gutenberg.org/ebooks/19555
